@@ -1,0 +1,3 @@
+1. Admin login page updated.
+2. New animation for the Title at home page.
+3. Admin can now see when the workers looged in and logged out.
